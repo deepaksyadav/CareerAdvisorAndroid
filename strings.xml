@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CareerAdviser</string>
+    <string name="find_career">Find Career !</string>
+    <string name="career_options"></string>
+    <string-array name="streams">
+        <item>Science</item>
+        <item>Bio</item>
+    </string-array>
+</resources>
